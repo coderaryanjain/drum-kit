@@ -1,2 +1,2 @@
 # Drum Kit🥁
-A Fun Drum Kit -> coderaryanjain.github.io/drum-kit/
+A Fun Drum Kit -> https://coderaryanjain.github.io/drum-kit/
